@@ -1,0 +1,17 @@
+			 ** Welcome  Aya  **
+
+Numéro de facture : 817 
+Nom du Client: Aya  
+Numéro de telephone: 0772158747 
+
+================================================================
+Produit 			  Quantité 			  Prix
+================================================================
+Shampoing 			  1 			  70	DH 
+
+================================================================
+Cosmetiques Taxes 						  1.4000000000000001	DH 
+Aliments Taxes 						  0.0	DH 
+Boissons Taxes 						  0.0	DH 
+Prix total 						  70	DH 
+

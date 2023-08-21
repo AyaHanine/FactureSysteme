@@ -1,0 +1,20 @@
+			 ** Welcome  aya hanine **
+
+Numéro de facture : 634 
+Nom du Client: aya hanine 
+Numéro de telephone: 0772158747 
+
+================================================================
+Produit 			  Quantité 			  Prix
+================================================================
+Shampoing 			  1 			  70	DH 
+Makeup 			  1 			  70	DH 
+Fruits 			  8 			  64	DH 
+Soda 			  1 			  6	DH 
+
+================================================================
+Cosmetiques Taxes 						  2.8000000000000003	DH 
+Aliments Taxes 						  1.92	DH 
+Boissons Taxes 						  0.06	DH 
+Prix total 						  210	DH 
+
